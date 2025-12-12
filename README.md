@@ -1,4 +1,4 @@
-# Coordinate Interceptor
+# Phaenon Coordinate Interceptor
 
 A Windows tool with a PySide6 GUI that runs a local MITM proxy to capture latitude/longitude coordinates from HTTPS JS traffic and convert them offline to **country + city** using `reverse_geocoder`. Captures trigger a Windows 10 toast notification with sound and a custom icon.
 
